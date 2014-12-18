@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l_la-deva" format="1">
+  <advance width="915"/>
+  <outline>
+    <component base="l-deva"/>
+    <component base="la-deva" xOffset="349"/>
+    <contour>
+      <point x="71" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="800" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="785" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

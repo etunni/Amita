@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Make morx table</key>
+	<true/>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>579</integer>
+	<key>copyright</key>
+	<string>Copyright © 2014, Eduardo Rodríguez Tunni. Copyright (c) 2000, Modular Infotech, Pune, INDIA. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-500</integer>
+	<key>description</key>
+	<string>AMITA   अमिता   f   Indian Feminine form of AMIT (1)</string>
+	<key>familyName</key>
+	<string>Amita</string>
+	<key>fsType</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/09/11 10:28:21</string>
+	<key>openTypeNameDesigner</key>
+	<string>Eduardo Rodríguez Tunni, Modular Infotech</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.tipo.net.ar</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Eduardo Rodríguez Tunni, Modular Infotech</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.tipo.net.ar</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Amita</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>392</integer>
+		<integer>408</integer>
+		<integer>579</integer>
+		<integer>595</integer>
+		<integer>750</integer>
+		<integer>766</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-266</integer>
+		<integer>-250</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>43</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>60</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Amita is a trademark of Modular Infotech and Eduardo Rodríguez Tunni
+</string>
+	<key>unicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>15</integer>
+	</array>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>392</integer>
+</dict>
+</plist>

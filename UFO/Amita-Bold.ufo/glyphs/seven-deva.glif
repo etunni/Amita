@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven-deva" format="1">
+  <advance width="479"/>
+  <unicode hex="096D"/>
+  <outline>
+    <contour>
+      <point x="35" y="184"/>
+      <point x="141" y="-3"/>
+      <point x="279" y="-3" type="curve" smooth="yes"/>
+      <point x="372" y="-3"/>
+      <point x="445" y="100"/>
+      <point x="445" y="220" type="curve" smooth="yes"/>
+      <point x="445" y="331"/>
+      <point x="372" y="453"/>
+      <point x="292" y="453" type="curve" smooth="yes"/>
+      <point x="228" y="453"/>
+      <point x="183" y="396"/>
+      <point x="183" y="316" type="curve" smooth="yes"/>
+      <point x="183" y="246"/>
+      <point x="254" y="157"/>
+      <point x="311" y="157" type="curve" smooth="yes"/>
+      <point x="329" y="157"/>
+      <point x="346" y="169"/>
+      <point x="358" y="184" type="curve"/>
+      <point x="347" y="123"/>
+      <point x="289" y="68"/>
+      <point x="231" y="68" type="curve" smooth="yes"/>
+      <point x="151" y="68"/>
+      <point x="87" y="176"/>
+      <point x="87" y="302" type="curve" smooth="yes"/>
+      <point x="87" y="382"/>
+      <point x="99" y="454"/>
+      <point x="123" y="516" type="curve"/>
+      <point x="56" y="556" type="line"/>
+      <point x="42" y="506"/>
+      <point x="35" y="447"/>
+      <point x="35" y="379" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="264" y="210"/>
+      <point x="252" y="229"/>
+      <point x="252" y="250" type="curve" smooth="yes"/>
+      <point x="252" y="316"/>
+      <point x="291" y="380"/>
+      <point x="336" y="380" type="curve" smooth="yes"/>
+      <point x="354" y="380"/>
+      <point x="365" y="364"/>
+      <point x="365" y="342" type="curve" smooth="yes"/>
+      <point x="365" y="270"/>
+      <point x="327" y="210"/>
+      <point x="280" y="210" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>2</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

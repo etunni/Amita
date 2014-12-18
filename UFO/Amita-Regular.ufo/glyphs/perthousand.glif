@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1024"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="zero.numr" xOffset="40"/>
+    <component base="fraction" xOffset="229"/>
+    <component base="zero.dnom" xOffset="428"/>
+    <component base="zero.dnom" xOffset="686"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

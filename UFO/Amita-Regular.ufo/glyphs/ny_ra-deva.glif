@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ny_ra-deva" format="1">
+  <advance width="547"/>
+  <outline>
+    <component base="nya-deva"/>
+    <component base="ra-deva.post" xOffset="547" yOffset="-60"/>
+    <contour>
+      <point x="86" y="46" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="432" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

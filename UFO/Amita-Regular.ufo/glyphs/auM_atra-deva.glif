@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="auMatra-deva" format="1">
+  <advance width="208"/>
+  <unicode hex="094C"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="205"/>
+    <contour>
+      <point x="133" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

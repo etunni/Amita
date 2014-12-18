@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="300"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="263" y="231" type="line"/>
+      <point x="246" y="180" type="line"/>
+      <point x="32" y="180" type="line"/>
+      <point x="49" y="231" type="line"/>
+    </contour>
+    <component base="a" xOffset="17" yOffset="292" xScale="0.8" yScale="0.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha_uMatra-deva" format="1">
+  <advance width="384"/>
+  <outline>
+    <component base="uMatra-deva" xOffset="370" yOffset="38"/>
+    <component base="ha-deva"/>
+    <contour>
+      <point x="84" y="-53" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="225" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>2</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

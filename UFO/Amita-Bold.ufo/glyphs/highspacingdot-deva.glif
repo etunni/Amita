@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highspacingdot-deva" format="1">
+  <advance width="188"/>
+  <unicode hex="0971"/>
+  <outline>
+    <contour>
+      <point x="94" y="394" type="line"/>
+      <point x="160" y="460" type="line"/>
+      <point x="94" y="527" type="line"/>
+      <point x="27" y="460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>2</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

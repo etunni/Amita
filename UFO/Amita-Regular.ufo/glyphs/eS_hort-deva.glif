@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eShort-deva" format="1">
+  <advance width="399"/>
+  <unicode hex="090E"/>
+  <outline>
+    <component base="e-deva"/>
+    <component base="eShortMatra-deva" xOffset="380"/>
+    <contour>
+      <point x="267" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

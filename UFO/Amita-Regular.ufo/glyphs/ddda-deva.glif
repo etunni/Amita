@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddda-deva" format="1">
+  <advance width="459"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="429" y="-101" type="line"/>
+      <point x="396" y="-57" type="line"/>
+      <point x="30" y="-57" type="line"/>
+      <point x="59" y="-101" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>2</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

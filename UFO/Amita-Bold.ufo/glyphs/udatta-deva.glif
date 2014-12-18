@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udatta-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0951"/>
+  <outline>
+    <contour>
+      <point x="-165" y="820" type="line"/>
+      <point x="-165" y="590" type="line" smooth="yes"/>
+      <point x="-78" y="590" type="line"/>
+      <point x="-78" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="-122" y="592" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>2</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

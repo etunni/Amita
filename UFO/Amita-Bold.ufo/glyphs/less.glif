@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="271"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="226" y="139" type="line"/>
+      <point x="214" y="124" type="line"/>
+      <point x="39" y="254" type="line"/>
+      <point x="214" y="395" type="line"/>
+      <point x="226" y="384" type="line"/>
+      <point x="130" y="254" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
