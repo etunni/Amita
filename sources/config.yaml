@@ -3,7 +3,7 @@ sources:
 axisOrder:
   - wght
 familyName: Amita
-buildStatic: false
+buildStatic: true
 stat:
   Amita[wght].ttf:
   - name: Weight
@@ -21,3 +21,5 @@ stat:
       value: 600
     - name: Bold
       value: 700
+    - name: ExtraBold
+      value: 800
